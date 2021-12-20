@@ -26,7 +26,7 @@ Created a [conda](https://github.com/conda-forge/miniforge) environment and inst
 ```
 
 ## Notes
-[Detailed Project Report](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project/blob/main/Project_Report_EMNIST_pb.pdf)
+[Detailed Project Report](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project/blob/main/Project_Report_EMNIST.pdf)
 
 [Code](https://github.com/Prakhar-Bhartiya/EMNIST_evaluation_CSE598_Project/blob/main/EMNIST_evaluation_PB.ipynb)
 
